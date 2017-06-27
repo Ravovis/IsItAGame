@@ -1,0 +1,2 @@
+id	name	blockearth	blockunder	blockover
+int	string	bool		bool		bool

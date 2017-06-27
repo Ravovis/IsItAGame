@@ -1,0 +1,2 @@
+login	session_id
+string	int(null)

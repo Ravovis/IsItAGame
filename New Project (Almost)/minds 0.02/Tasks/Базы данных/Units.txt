@@ -1,0 +1,2 @@
+id	name	Health	ATK	TATK	ARMOR	TARMOR	hasSpells	GoldCost	WoodCost	GenerationTurns	Speed 	imagePath	idRace
+int	string	int	int	string	int	string	bool		int		int		int		int	string		int

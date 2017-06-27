@@ -1,0 +1,2 @@
+Id(from ElementsOnMap)	Resource_id
+int			int

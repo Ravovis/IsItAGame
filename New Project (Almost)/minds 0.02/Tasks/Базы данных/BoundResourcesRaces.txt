@@ -1,0 +1,1 @@
+id_races	id_resources

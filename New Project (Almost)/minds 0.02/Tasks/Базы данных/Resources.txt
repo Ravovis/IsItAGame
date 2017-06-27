@@ -1,0 +1,2 @@
+id_res	name	icon
+int 	string	string
